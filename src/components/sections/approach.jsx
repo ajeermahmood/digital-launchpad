@@ -134,7 +134,7 @@ const Approach = () => {
                         <Button asChild variant="outline" className={"sm:px-20 px-15"}>
                           <Link
                             className="uppercase tracking-wider"
-                            href={"/services"}
+                            href={"/"}
                           >
                             {" "}
                             Yes, I want to join{" "}

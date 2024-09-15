@@ -10,9 +10,8 @@ import ProvideTwo from "@/components/sections/provides/provideTwo";
 import TeamSlider from "@/components/sections/teams/teamSlider";
 
 export const metadata = {
-  title: "NextPro | Home-2",
-  description:
-    "NextPro is a modern Next.js and Tailwind CSS Template there features General Marketing, Social Media Marketing, AI in Marketing, Paid Advertising, Video Marketing, Analytics and Reporting, Industry news & Trends, E-commerce Marketing",
+  title: "Digital Launchpad",
+  description: "",
 };
 
 const Home = () => {
@@ -37,7 +36,7 @@ const Home = () => {
       <FaqOne />
       <BlogOne/>
       <SubscribeTwo/> */}
-      <ContactFormTwo/>
+      <ContactFormTwo />
       <FooterFour />
     </main>
   );

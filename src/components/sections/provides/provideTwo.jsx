@@ -77,7 +77,7 @@ const ProvideTwo = ({ order_1, order_0 }) => {
                   variant="outline"
                   className={"sm:px-20 px-15 lg:mt-13 mt-7 mb-6 sm:mb-0"}
                 >
-                  <Link className="uppercase tracking-wider" href={"/services"}>
+                  <Link className="uppercase tracking-wider" href={"/"}>
                     {" "}
                     Yes, I want to join{" "}
                   </Link>

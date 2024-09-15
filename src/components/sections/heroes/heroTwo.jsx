@@ -83,7 +83,7 @@ const HeroTwo = () => {
               size={"lg"}
               className="sm:max-h-[64px] max-h-[60px] w-full group button-theme"
             >
-              <Link href="/contact-us">
+              <Link href="/">
                 {" "}
                 YES! GIVE ME ACCESS NOW{" "}
                 <span className="-rotate-45 group-hover:rotate-0 transition-all duration-75">
