@@ -1,0 +1,9 @@
+.button-theme {
+  background-image: linear-gradient(#ff4704, #af1919);
+  border-width: 0.1rem;
+  border-color: #880f01;
+
+  &:hover {
+    background-image: none;
+  }
+}
