@@ -64,7 +64,7 @@ const PriceCardOne = ({
                   size={"lg"}
                   className="max-h-[64px] group"
                 >
-                  <Link href="/" className="uppercase sm:tracking-wider sm:text-[15px] text-[1rem] px-[10px]">
+                  <Link href="/" className="uppercase sm:tracking-wider sm:text-[15px] text-[0.9rem] px-[10px]">
                     {" "}
                     {id == 1
                       ? "Get Monthly Access Now"

@@ -131,7 +131,7 @@ const Approach = () => {
                           {tab_content.name}
                         </p>
                         <p className="pt-5 pb-7.5">{tab_content.description}</p>
-                        <Button asChild variant="outline" className={"sm:px-20 px-15"}>
+                        <Button asChild variant="outline" className={"sm:px-20 px-12"}>
                           <Link
                             className="uppercase tracking-wider"
                             href={"/"}
@@ -161,7 +161,7 @@ const Approach = () => {
                           className="rounded-2.5xl"
                         /> */}
                         <iframe
-                          className="border border-[#ba350a] rounded sm:w-[33rem] w-[22rem] sm:h-[20rem] h-[13rem]"
+                          className="border border-[#ba350a] rounded sm:w-[33rem] w-[19.5rem] sm:h-[20rem] h-[10.5rem]"
                           src={tab_content.frame_src}
                           allowFullScreen
                           title={tab_content.frame_title}
