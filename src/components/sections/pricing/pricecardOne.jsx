@@ -64,14 +64,14 @@ const PriceCardOne = ({
                   size={"lg"}
                   className="max-h-[64px] group"
                 >
-                  <Link href="/" className="uppercase sm:tracking-wider sm:text-[15px] text-[0.9rem] px-[10px]">
+                  <Link href="/" className="uppercase sm:tracking-wider sm:text-[15px] text-[0.8rem] px-[10px]">
                     {" "}
                     {id == 1
                       ? "Get Monthly Access Now"
                       : "Get Yearly Access Now"}{" "}
-                    <span className="-rotate-45 group-hover:rotate-0 transition-all duration-75">
+                    {/* <span className="-rotate-45 group-hover:rotate-0 transition-all duration-75">
                       <RightArrow />
-                    </span>{" "}
+                    </span>{" "} */}
                   </Link>
                 </Button>
               </div>

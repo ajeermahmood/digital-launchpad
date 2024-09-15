@@ -151,7 +151,7 @@ const Approach = () => {
                           complete your checkout.
                         </p>
                       </div>
-                      <div className="lg:max-w-[33rem] w-full pt-7.5 lg:pt-0">
+                      <div className="lg:max-w-[33rem] w-full pt-7.5 lg:pt-0 flex justify-center">
                         {/* <Image
                           src={tab_content}
                           width={540}
